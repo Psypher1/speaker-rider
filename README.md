@@ -2,15 +2,15 @@
 
 > Last modified August 15th, 2023.
 
-Hi, thanks for looking at my speaker rider! 💖
 
-This is a set of requirements and standards for accepting an offered speaking slot.
-The points here are all things I believe conferences should be doing anyway to make for a more accessible, equitable event for everybody involved.
+## Intro
+Hi there! First, I'm delighted that you're interested in having me speak at your event. I truly love what I do, and I'm always excited for another opportunity to share my knowledge and viewpoints with others. That said, I do have some requirements and standards for accepting an offered speaking slot, submitting to an open CFP, or engaging in any kind of promotion for an event (yes, including retweets).
 
 ## TLDR
 
 - **Accessibility**: Be it, whether in-person and/or online
 - **Accommodations**: Pay for travel expenses and my ticket
+- **Code of Conduct**: Have a real one
 
 ## Accessibility
 
@@ -44,6 +44,10 @@ You should cover at least:
 Since speaking at events like yours is a large part of my job, I do not generally require a speaking fee or an honorarium. This is especially true for non-profits, community events, or events where the cost of attending is heavily reduced.
 
 For large-scale, corporate event where the organizing company stands to make a profit, or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker. If I am being paid, all other speakers should be paid as well.
+
+
+## Code of Conduct
+Your event must have an explicitly-defined, enforced Code of Conduct linked publicly on your event's website, preferably as a top-level menu item. It should include a clear, readable description of what behavior is and is not acceptable, as well as at least one way for someone to report a violation. A paragraph of legalese buried in the Terms of Use is not sufficient to meet this requirement. If you're looking for inspiration, the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md) is a great place to start.
 
 ---
 
