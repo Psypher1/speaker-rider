@@ -7,7 +7,7 @@ Hi, thanks for looking at my speaker rider! 💖
 This is a set of requirements and standards for accepting an offered speaking slot.
 The points here are all things I believe conferences should be doing anyway to make for a more accessible, equitable event for everybody involved.
 
-## tl;dr
+## TLDR
 
 - **Accessibility**: Be it, whether in-person and/or online
 - **Accommodations**: Pay for travel expenses and my ticket
@@ -38,18 +38,14 @@ You should cover at least:
 
 \*If you are a regional and/or smaller conference with a limited budget and relatively cheap attendee tickets (<=$200/day), we can discuss omitting this requirement.
 
-### COVID Safety
-
-Any event venue should comply with local, state, and federal COVID restrictions, including any mask and vaccine requirements.
 
 ### Speaking Fees and Honorariums
 
-Since speaking at events helps me promote myself and my projects, I do not generally require a speaking fee or an honorarium.
-This is especially true for non-profits, community events, or events where the cost of attending is heavily reduced.
+Since speaking at events like yours is a large part of my job, I do not generally require a speaking fee or an honorarium. This is especially true for non-profits, community events, or events where the cost of attending is heavily reduced.
 
-For large-scale corporate events where the organizing company stands to make a profit or private internal corporate events, my fee is negotiable based on the size of the event and whether I am a keynote speaker.
-If I am being paid, all other speakers should be paid as well.
+For large-scale, corporate event where the organizing company stands to make a profit, or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker. If I am being paid, all other speakers should be paid as well.
 
+---
 
 ## This Rider
 
@@ -63,6 +59,6 @@ This speaker rider borrows heavily from the following very excellent speaker rid
 
 - [Cassidy Williams](https://github.com/cassidoo/talks/blob/master/speaker-rider.md)
 - [Kat Cosgrove](https://github.com/katcosgrove/katcosgrove/blob/main/speaking.md)
-- [Joshua](https://github.com/JoshuaKGoldberg/speaker-rider/blob/main/README.md)
+- [Josh Goldberg](https://github.com/JoshuaKGoldberg/speaker-rider/blob/main/README.md)
 
 
