@@ -6,7 +6,7 @@
 ## Intro
 Hi there! First, I'm delighted that you're interested in having me speak at your event. I truly love what I do, and I'm always excited for another opportunity to share my knowledge and viewpoints with others. That said, I do have some requirements and standards for accepting an offered speaking slot, submitting to an open CFP, or engaging in any kind of promotion for an event (yes, including retweets).
 
-## TLDR
+## TL;DR
 
 - **Accessibility**: Be it, whether in-person and/or online
 - **Accommodations**: Pay for travel expenses and my ticket
@@ -49,15 +49,17 @@ For large-scale, corporate event where the organizing company stands to make a p
 ## Code of Conduct
 Your event must have an explicitly-defined, enforced Code of Conduct linked publicly on your event's website, preferably as a top-level menu item. It should include a clear, readable description of what behavior is and is not acceptable, as well as at least one way for someone to report a violation. A paragraph of legalese buried in the Terms of Use is not sufficient to meet this requirement. If you're looking for inspiration, the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md) is a great place to start.
 
+
+Contacting Me
+
+Want to have me speak? Cool! Reach out to me via [email](jamesmidzi@gmail.com) with the name, dates, and website for your event, as well as any confirmed speakers and an idea of what you want me to talk about. If your event fits into the corporate events category, please also include your speaker budget.
+
+Thanks for reading!
+
 ---
 
-## This Rider
 
-Thanks for reading all of this speaker rider!
-I hope none of it is particularly surprising, and that it's reasonable for you.
-Please do let me know at [rider@joshuakgoldberg.com](mailto:rider@joshuakgoldberg.com) if you want to chat.
-
-### Inspired By
+## Inspired By
 
 This speaker rider borrows heavily from the following very excellent speaker riders:
 
